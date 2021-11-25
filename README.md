@@ -1,4 +1,4 @@
-# Aspects-Detection-Tablet-Cases-Reviews
+# Aspects-Detection-Tablet-Case-Reviews
 
 ## Product Overview
 This solution identifies the various aspects from online product reviews for tablet cases. The following 7 aspects are identified: Value for Money, Build Quality, Dimensions and Weight, Case Fit, Ease of Handling, Design and Looks and Protection. This enables companies to easily identify which aspects are being reviewed. This information can be used to assess changes in consumer priorities and focus on trending aspects related to tablet cases. Companies can use this solution for providing inputs to advertising and marketing campaigns and product design.
